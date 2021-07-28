@@ -1,0 +1,8 @@
+/node_modules
+/uploads/*
+/logs/*
+.env
+.env-stag
+.env-prod
+package-lock.json
+ecosystem.config.js
